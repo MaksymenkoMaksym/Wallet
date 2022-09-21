@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Wallet/static/css/main.34ce4fa2.css",
-    "main.js": "/Wallet/static/js/main.2fd59f73.js",
+    "main.js": "/Wallet/static/js/main.0b65042f.js",
     "static/media/sprite.svg": "/Wallet/static/media/sprite.b7b926ab308b122aa6bf7dd5eea2abbb.svg",
     "index.html": "/Wallet/index.html",
     "main.34ce4fa2.css.map": "/Wallet/static/css/main.34ce4fa2.css.map",
-    "main.2fd59f73.js.map": "/Wallet/static/js/main.2fd59f73.js.map"
+    "main.0b65042f.js.map": "/Wallet/static/js/main.0b65042f.js.map"
   },
   "entrypoints": [
     "static/css/main.34ce4fa2.css",
-    "static/js/main.2fd59f73.js"
+    "static/js/main.0b65042f.js"
   ]
 }
